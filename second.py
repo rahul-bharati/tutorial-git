@@ -1,2 +1,4 @@
-def second():
-  print("This is our second file")
+
+
+def diff():
+  print("This function is to show you what diff does")
